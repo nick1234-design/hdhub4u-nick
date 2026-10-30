@@ -1,0 +1,18 @@
+
+{
+  "id": "com.nick1234.hdhub4unick",
+  "version": "1.0.0",
+  "name": "HDHub4u Nick",
+  "description": "HDHub4u streams using 4KHDHub extractors",
+  "resources": [
+    "stream"
+  ],
+  "types": [
+    "movie",
+    "series"
+  ],
+  "idPrefixes": [
+    "tt"
+  ],
+  "catalogs": []
+}
