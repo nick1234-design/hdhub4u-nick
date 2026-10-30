@@ -1,0 +1,20 @@
+
+{
+  "name": "hdhub4u-nick",
+  "version": "1.0.0",
+  "description": "Standalone HDHub4u Stremio addon using 4KHDHub extractors",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "axios": "^1.8.4",
+    "cheerio": "^1.0.0",
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
